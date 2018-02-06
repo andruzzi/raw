@@ -1,0 +1,5 @@
+.side,  .promotedlink, .score, .expand, .footer-parent, .midcol, .thumbnail, .flair {
+    display: none !important;
+}
+#header {display:none;}
+.comment .author {font-weight:normal !important;}
